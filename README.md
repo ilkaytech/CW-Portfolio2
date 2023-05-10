@@ -1,3 +1,3 @@
 # Html-Css Scholl Project
-#### sticky header
+#### CSS sticky header
 ### 🛠️ [Demo Link](https:)
