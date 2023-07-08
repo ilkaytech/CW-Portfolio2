@@ -21,11 +21,7 @@ Project aims to create a website page.
 
 <br>
 
-![Project Snapshot](./project.gif)
-
-## Objective
-
-Build a Landing same as in the following link;
+🔗 ![Project Snapshot](./project.gif)
 
 ### The following issues are covered in the project;
 
