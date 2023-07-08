@@ -17,7 +17,7 @@ Project aims to create a website page.
 
 ## Outcome
 
-[Project](https://cw-scholl-projet.netlify.app/)
+[Website page desing](https://cw-scholl-projet.netlify.app/)
 
 <br>
 
