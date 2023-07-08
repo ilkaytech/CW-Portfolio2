@@ -17,11 +17,11 @@ Project aims to create a website page.
 
 ## Outcome
 
-[Website page desing](https://cw-scholl-projet.netlify.app/)
+🔗 [Website page desing](https://cw-scholl-projet.netlify.app/)
 
 <br>
 
-🔗 ![Project Snapshot](./project.gif)
+![Project Snapshot](./project.gif)
 
 ### The following issues are covered in the project;
 
