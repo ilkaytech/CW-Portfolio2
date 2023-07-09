@@ -7,7 +7,7 @@ Project aims to create a website page.
 ## Project Skeleton
 
 ```
-004-website-page-design (folder)
+Website Page Design (folder)
 |
 |----readme.md         # Definition of the project
 |----images            # Images of the project
@@ -21,7 +21,7 @@ Project aims to create a website page.
 
 <br>
 
-![Project Snapshot](./project.gif)
+![Website Page Design](./project.gif)
 
 ### The following issues are covered in the project;
 
